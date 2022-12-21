@@ -1,1 +1,1 @@
-.topRow{font-size:14px;color:var(--white);line-height:1.2}.topRow ul{list-style:none;padding-left:0}.topRow ul li{display:inline-block;vertical-align:middle}.topRow ul li~li{border-left:1px solid}
+.topRow{font-size:14px;color:var(--white);line-height:1.2}.topRow .content1 ul{list-style:none;padding-left:0}.topRow .content1 ul li{display:inline-block;vertical-align:middle}.topRow .content1 ul li~li{border-left:1px solid;line-height:1;margin-left:5px;padding-left:8px}
