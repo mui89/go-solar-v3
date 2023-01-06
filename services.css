@@ -1,1 +1,1 @@
-@import "header-footer.css";@import "style.css";@import "img-feature.css";@import "quick-contact.css";@import "cs-layout.css";@import "reviews.css";.services .listing .c-image-feature:not(:last-child){margin-bottom:30px}@media screen and (min-width:768px){.services .listing{display:-webkit-box;display:-ms-flexbox;display:flex}}
+@import "header-footer.css";@import "style.css";@import "img-feature.css";@import "quick-contact.css";@import "cs-layout.css";@import "reviews.css";.services .listing .c-image-feature:not(:last-child){margin-bottom:30px}
