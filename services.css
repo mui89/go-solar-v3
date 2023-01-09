@@ -1,1 +1,1 @@
-@import "header-footer.css";@import "style.css";@import "img-feature.css";@import "quick-contact.css";@import "cs-layout.css";@import "reviews.css";
+@import "header-footer.css";@import "style.css";@import "img-feature.css";@import "quick-contact.css";@import "cs-layout.css";@import "reviews.css";@media screen and (min-width:768px){.services>.inner>.c-row:first-child .c-heading{-webkit-transform:rotate(-90deg) translateX(-44%);transform:rotate(-90deg) translateX(-44%)}}@media screen and (min-width:1850px){.services>.inner>.c-row:first-child .c-heading{left:-33%}}
